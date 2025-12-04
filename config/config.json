@@ -1,0 +1,9 @@
+{
+  "data_source": {
+    "tickers": ["MSFT"],
+    "start_date": "2020-01-01"
+  },
+  "lakehouse": {
+    "bronze_path": "bronze/stocks"
+  }
+}

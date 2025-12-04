@@ -1,0 +1,24 @@
+[project]
+name = "ms-fabric-sell-may-buy-october"
+version = "0.1.0"
+description = "Stock Price Prediction"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "imbalanced-learn>=0.14.0",
+    "ipykernel>=7.1.0",
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.7",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "pandas-datareader>=0.10.0",
+    "pandas-ta>=0.4.71b0",
+    "plotly>=6.5.0",
+    "scikit-learn>=1.7.2",
+    "scipy>=1.16.3",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.5",
+    "ta>=0.11.0",
+    "xgboost>=3.1.2",
+    "yfinance>=0.2.66",
+]
